@@ -127,6 +127,7 @@ Click on the Next button.
 Step 8: Now it is time to download the SDK components. 
 
 ![](images/12.png)
+
 Click on Finish. Components begin to download let it complete.
 
 ![](images/13.png)
